@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	int i = 0, P[5000], k, result;
+	int i = 0, P[5000], k;
 	while(i < 5000)
 	{
 		P[i] = 2*i+1;
